@@ -1,0 +1,62 @@
+<style>
+h1, h2, {
+    color:rgb(85, 139, 241);
+    text-align:center;
+    font-family:Arial;
+    font-size:25px;
+    text-decoration:underline;
+}
+
+ul {
+    color: rgb(49, 48, 48);
+    font-family:Arial;
+    font-size:15px;
+    list-style-type: disc;
+    text-align: left;  
+}
+
+html {
+    background: rgb(196, 192, 255)
+}
+
+/*this is a multi-line comment COMMENTS ARE YOUR FRIEND*/
+
+p.center {
+    text-align: center;
+    color: red;
+}
+
+</style>
+
+/*DO NOT USE THIS WILL LOOSE MARKS
+* {
+    text-align: center;
+    color: blue;
+}
+*/
+
+/*IMPORTANT
+D.R.Y means: Do Not Repeat Yourself
+Example: 
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    text-align: center;
+    color: red;
+}
+You are repeating yourself contantly. Instead write this
+
+*/
+
+/*Important
+Internal css and inline css DO NOT USE...ONLY USE "EXTERNAL CSS"
+*/
+
