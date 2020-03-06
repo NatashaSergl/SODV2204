@@ -103,7 +103,6 @@ header section h3{
     text-transform: uppercase;
 }
 
-
 .start, .middle, .middle2, .end {
     color: rgb(105, 101, 101);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -129,7 +128,7 @@ header section h3{
 
 /* This is the end of the "lyrics" section. */
 
-
+/* This is the start of the aside section (with video). */
 
 .bignewcontainer {
     display: flex;
@@ -157,7 +156,6 @@ aside {
     margin-top: -4%; 
     width: 90%;
 }
- 
 
 .in, .this {
     margin-top: 1em;
@@ -191,6 +189,9 @@ iframe {
     border-top: 4px solid white;   
 }
 
+/* This is the end of the aside section (with video). */
+
+/* This is the start of the footer section. */
 
 footer {
     padding-top: 1%;
@@ -211,3 +212,5 @@ footer {
     background-color: yellow;
     color: rgb(85, 84, 84)
 }
+
+/* This is the end of the footer section. */
