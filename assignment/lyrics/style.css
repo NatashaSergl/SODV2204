@@ -43,50 +43,7 @@ li a {
     font-size: 15px;
 }
 
-main header {
-    background-image: url(./talking_heads-speaking_in_tongues.png);
-    height: 200px;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-}
 
-header section {
-    background-color: rgba(0, 0, 0, .8);
-    width: 83%;
-    height: 200px;
-}
-
-header section h1{
-    margin-left: 2%;
-    margin-top: 5%;
-    font-size: 35px;
-    text-transform: uppercase;
-    color: #fffb06;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    justify-content: center;
-}
-
-img{
-    height: 155px;
-    position: absolute;
-    right: 135px;
-    top: 19vh;
-}
-
-header section h2{
-    color: rgb(236, 229, 229);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 2%;
-    margin-top: -3%;
-}
-
-header section h3{
-    color: rgb(202, 195, 195);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 2%;
-}
 
 /* This is the end of my header section. */
 
